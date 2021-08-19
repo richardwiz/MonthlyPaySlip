@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Payslip.console": {
+      "commandName": "Project",
+      "commandLineArgs": "\"Mary Song\" \"60000\""
+    }
+  }
+}
