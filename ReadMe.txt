@@ -28,6 +28,8 @@ The Payslip.console program is run by opening a command prompt and running the f
 	- cd <path to the Payslip.console executable>
 	- Payslip.console "<Employee Name>" <salary>
 	- e.g. Payslip.console "Richard Wiz" 50000
+	- The program can also be run in visual studio for the example in the requirements.
+		 - The commanline arguments are setup in the Debug tab of the Project properties.
 
 *** DESIGN NOTES **************************************************************************************************
 Whilst the payslip application simple, it has also been designed to be both extendable and easily testable. 
